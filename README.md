@@ -2,9 +2,11 @@
 
 ## <i class="fas fa-car"></i> COCHE
 
-HAY APARCAMIENTO ALLI EN EL CIM
+Se podrá ir directamente en coche puesto que hay aparcamiento en el restaurante.
 
-## AUTOBUS: DESDE SABADELL, DOS PUNTOS DE RECOGIDA EN LOS ALOJAMIENTOS QUE OS RECOMENDAMOS
+## <i class="fas fa-bus"></i> AUTOBUS
+
+Habrá disponible un autobús que saldrá desde Sabadell, con dos puntos de recogida (opción recomendada)
 
 # ALOJAMIENTO y AUTOBUSES
 
