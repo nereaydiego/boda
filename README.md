@@ -1,16 +1,23 @@
-# COMO LLEGAR
+¡Hola a todos!
 
-## <i class="fas fa-car"></i> COCHE
+Estas son algunas recomendaciones útiles para nuestro gran día:
+
+# <i class="fas fa-map-signs"></i> ¿Cómo voy a la ceremonia?
+
+## <i class="fas fa-car"></i> Coche
 
 Se podrá ir directamente en coche puesto que hay aparcamiento en el restaurante.
 
-## <i class="fas fa-bus"></i> AUTOBUS
+## <i class="fas fa-bus"></i> Autobús
 
-Habrá disponible un autobús que saldrá desde Sabadell, con dos puntos de recogida (opción recomendada)
+Habrá disponible un autobús, que saldrá desde Sabadell, con dos puntos de recogida (opción recomendada):
 
-# ALOJAMIENTO y AUTOBUSES
+| Parada | Zona | Lugar | Hora |
+|--------|------|-------|------|
+| 1ª | Sabadell Sud | Hotel Arrahona | 16:30 |
+| 2ª | Sabadell Centro | Catalonia Hotel Sabadell | 16:45 |
 
-¡Hola a todos!
+# <i class="fas fa-bed"></i> ¿Dónde me puedo alojar?
 
 A continuación, os recomendamos un par de zonas en Sabadell para que os alojéis, que serán
 las zonas por las que pase el autobús que vamos a contratar para el evento. Os dejamos
