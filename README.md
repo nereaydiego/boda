@@ -2,6 +2,9 @@
 
 Estas son algunas recomendaciones útiles para nuestro gran día:
 
+- <a id="skip-to-content" href="#-cómo-voy-a-la-ceremonia">¿Cómo voy a la ceremonia?</a>
+- <a id="skip-to-content" href="#-cómo-vuelvo-de-la-ceremonia">¿Cómo vuelvo de la ceremonia?</a>
+
 # <i class="fas fa-map-signs"></i> ¿Cómo voy a la ceremonia?
 
 ## <i class="fas fa-car"></i> Coche
