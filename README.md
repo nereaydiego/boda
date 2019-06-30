@@ -17,6 +17,10 @@ Habrá disponible un autobús, que saldrá desde Sabadell, con dos puntos de rec
 | 1ª | Sabadell Sud | Hotel Arrahona | 16:30 |
 | 2ª | Sabadell Centro | Catalonia Hotel Sabadell | 16:45 |
 
+# <i class="fas fa-map-signs"></i> ¿Cómo vuelvo de la ceremonia?
+
+A la finalización del evento, el autobús regresará a la gente que así lo desee a los dos mismos puntos de recogida en dos horarios: a la 1 de la mañana y las 3.
+
 # <i class="fas fa-bed"></i> ¿Dónde me puedo alojar?
 
 A continuación, os recomendamos un par de zonas en Sabadell para que os alojéis, que serán
