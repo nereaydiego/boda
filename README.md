@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# COMO LLEGAR
 
-You can use the [editor on GitHub](https://github.com/nereaydiego/boda/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## COCHE: HAY APARCAMIENTO ALLI EN EL CIM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AUTOBUS: DESDE SABADELL, DOS PUNTOS DE RECOGIDA EN LOS ALOJAMIENTOS QUE OS RECOMENDAMOS
 
-### Markdown
+# ALOJAMIENTO y AUTOBUSES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+¡Hola a todos!
 
-```markdown
-Syntax highlighted code block
+A continuación, os recomendamos un par de zonas en Sabadell para que os alojéis, que serán
+las zonas por las que pase el autobús que vamos a contratar para el evento. Os dejamos
+indicados algunos hoteles, aunque por supuesto, podéis buscar otras opciones.
+Recomendamos alojamiento en Sabadell (a 11km aprox del lugar de la celebración). Va a haber
+dos puntos de recogida del autobús:
 
-# Header 1
-## Header 2
-### Header 3
+## PRIMER PUNTO DE RECOGIDA
 
-- Bulleted
-- List
+Zona Sabadell Sud
+Hotel Arrahona
+Hora de salida del autobús: 16:30h
 
-1. Numbered
-2. List
+## SEGUNDO PUNTO DE RECOGIDA
 
-**Bold** and _Italic_ and `Code` text
+Zona Sabadell Centro (más bonita, para los que no conozcáis la ciudad):
+Catalonia Hotel Sabadell
+Catalonia Gran Hotel Verdi
+Hora de salida del autobús: 16:45h desde el Catalonia Hotel Sabadell
 
-[Link](url) and ![Image](src)
-```
+> En estos dos hoteles disponéis de un pequeño descuento si en el concepto de la reserva poneis 'reserva boda El Cim Esdeveniments'
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# HORARIO DEL AUTOBUS
 
-### Jekyll Themes
+## IDA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nereaydiego/boda/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## VUELTA
 
-### Support or Contact
+En la finalización del evento, el autobús regresará a la gente que así lo desee a esos dos mismos puntos de recogida en dos horarios, la 1 de la mañana y las 3.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+No os recomendaríamos que os alojarais en Barcelona dado que está a 40km y la boda es de
+tarde (termina a las 3 de la mañana) ni tampoco en el mismo Castellar del Vallès dado que es
+muy pequeño.
+
+# COSAS QUE NECESITAMOS
+
+1. Que nos digáis si vas a necesitar plaza en el autobús para hacer bien el recuento y contratar el numero de autobuses necesarios
+1. Indicadnos si son alérgicos o intorlerantes a algún alimento
