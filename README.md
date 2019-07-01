@@ -13,7 +13,7 @@ __<i class="fas fa-exclamation-triangle"></i> ¡IMPORTANTE!__
 Necesitaríamos que nos indicaséis lo siguiente:
 
 1. Si vas a necesitar plaza en el autobús para hacer bien el recuento y contratar el numero de autobuses necesarios
-1. Si son alérgicos o intorlerantes a algún alimento
+1. Si sois alérgicos o intorlerantes a algún alimento
 
 <hr>
 
@@ -50,4 +50,4 @@ _(No os recomendamos alojaros en Barcelona dado que está a 40km y la boda es de
 | Sabadell Centro | Catalonia Hotel Sabadell | [web](https://www.cataloniahotels.com/es/hotel/catalonia-sabadell){:target="_blank"} |
 | Sabadell Centro | Catalonia Gran Hotel Verdi | [web](https://www.cataloniahotels.com/es/hotel/catalonia-gran-hotel-verdi){:target="_blank"} |
 
-> En estos dos hoteles disponéis de un pequeño descuento si en el concepto de la reserva poneis `reserva boda El Cim Esdeveniments`
+> En estos los hoteles _Catalonia Hotel Sabadell_ y _Catalonia Gran Hotel Verdi_ disponéis de un pequeño descuento si en el concepto de la reserva poneis `reserva boda El Cim Esdeveniments`
