@@ -23,7 +23,7 @@ Necesitaríamos que nos indicaséis lo siguiente:
 
 Se podrá ir directamente en coche puesto que hay aparcamiento en el restaurante ([ver en mapa](https://goo.gl/maps/6p1S1X4VTfNUKNqC8)).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d70031.2527933138!2d2.014322363448363!3d41.5967287370854!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4ec7d21598ee9%3A0x54eeba04b1067cef!2sEl+Cim+Esdeveniments!5e1!3m2!1ses!2ses!4v1562008839352!5m2!1ses!2ses" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d70031.2527933138!2d2.014322363448363!3d41.5967287370854!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4ec7d21598ee9%3A0x54eeba04b1067cef!2sEl+Cim+Esdeveniments!5e1!3m2!1ses!2ses!4v1562008839352!5m2!1ses!2ses" width="350" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## <i class="fas fa-bus"></i> Autobús
 
@@ -31,8 +31,8 @@ Habrá disponible un autobús, que saldrá desde Sabadell, con dos puntos de rec
 
 | Parada | Zona | Salida desde | Hora |
 |--------|------|-------|------|
-| 1ª | Sabadell Sud | Hotel Arrahona [ver en mapa](https://goo.gl/maps/Ad3j8jSUPCJPkg9WA) | 16:30 |
-| 2ª | Sabadell Centro | Catalonia Hotel Sabadell [ver en mapa](https://goo.gl/maps/utwAceP48s3scq7K6) | 16:45 |
+| 1ª | Sabadell Sud | Hotel Arrahona ([ver en mapa](https://goo.gl/maps/Ad3j8jSUPCJPkg9WA)) | 16:30 |
+| 2ª | Sabadell Centro | Catalonia Hotel Sabadell ([ver en mapa](https://goo.gl/maps/utwAceP48s3scq7K6)) | 16:45 |
 
 # <i class="fas fa-map-signs"></i> ¿Cómo puedo volver de la ceremonia?
 
@@ -50,4 +50,4 @@ _(No os recomendamos alojaros en Barcelona dado que está a 40km y la boda es de
 | Sabadell Centro | Catalonia Hotel Sabadell | [web](https://www.cataloniahotels.com/es/hotel/catalonia-sabadell) |
 | Sabadell Centro | Catalonia Gran Hotel Verdi | [web](https://www.cataloniahotels.com/es/hotel/catalonia-gran-hotel-verdi) |
 
-> En estos dos hoteles disponéis de un pequeño descuento si en el concepto de la reserva poneis 'reserva boda El Cim Esdeveniments'
+> En estos dos hoteles disponéis de un pequeño descuento si en el concepto de la reserva poneis `reserva boda El Cim Esdeveniments`
