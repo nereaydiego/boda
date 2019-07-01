@@ -31,8 +31,8 @@ Habrá disponible un autobús, que saldrá desde Sabadell, con dos puntos de rec
 
 | Parada | Zona | Salida desde | Hora |
 |--------|------|-------|------|
-| 1ª | Sabadell Sud | Hotel Arrahona | 16:30 |
-| 2ª | Sabadell Centro | Catalonia Hotel Sabadell | 16:45 |
+| 1ª | Sabadell Sud | Hotel Arrahona [ver en mapa](https://goo.gl/maps/Ad3j8jSUPCJPkg9WA) | 16:30 |
+| 2ª | Sabadell Centro | Catalonia Hotel Sabadell [ver en mapa](https://goo.gl/maps/utwAceP48s3scq7K6) | 16:45 |
 
 # <i class="fas fa-map-signs"></i> ¿Cómo puedo volver de la ceremonia?
 
@@ -44,10 +44,10 @@ Recomendamos que os alojéis en Sabadell (a 11km aprox del lugar de la celebraci
 
 _(No os recomendamos alojaros en Barcelona dado que está a 40km y la boda es de tarde (terminará a las 3 de la mañana), ni tampoco en el mismo Castellar del Vallès dado que es un pueblo pequeño con una oferta de alojamientos reducida)._
 
-| Zona | Hotel |
-|------|-------|
-| Sabadell Sud | Hotel Arrahona |
-| Sabadell Centro | Catalonia Hotel Sabadell |
-| Sabadell Centro | Catalonia Gran Hotel Verdi |
+| Zona | Hotel | Web |
+|------|-------|-----|
+| Sabadell Sud | Hotel Arrahona | [web](https://www.arrahonahotel.com/) |
+| Sabadell Centro | Catalonia Hotel Sabadell | [web](https://www.cataloniahotels.com/es/hotel/catalonia-sabadell) |
+| Sabadell Centro | Catalonia Gran Hotel Verdi | [web](https://www.cataloniahotels.com/es/hotel/catalonia-gran-hotel-verdi) |
 
 > En estos dos hoteles disponéis de un pequeño descuento si en el concepto de la reserva poneis 'reserva boda El Cim Esdeveniments'
