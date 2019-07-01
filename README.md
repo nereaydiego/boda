@@ -50,4 +50,4 @@ _(No os recomendamos alojaros en Barcelona dado que está a 40km y la boda es de
 | Sabadell Centro | Catalonia Hotel Sabadell | [web](https://www.cataloniahotels.com/es/hotel/catalonia-sabadell){:target="_blank"} |
 | Sabadell Centro | Catalonia Gran Hotel Verdi | [web](https://www.cataloniahotels.com/es/hotel/catalonia-gran-hotel-verdi){:target="_blank"} |
 
-> En estos los hoteles _Catalonia Hotel Sabadell_ y _Catalonia Gran Hotel Verdi_ disponéis de un pequeño descuento si en el concepto de la reserva poneis `reserva boda El Cim Esdeveniments`
+> En los hoteles _Catalonia Hotel Sabadell_ y _Catalonia Gran Hotel Verdi_ disponéis de un pequeño descuento si en el concepto de la reserva poneis `reserva boda El Cim Esdeveniments`
