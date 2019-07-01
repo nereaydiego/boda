@@ -29,8 +29,8 @@ Se podrá ir directamente en coche puesto que hay aparcamiento en el restaurante
 
 Habrá disponible un autobús, que saldrá desde Sabadell, con dos puntos de recogida (opción recomendada):
 
-| Parada | Zona | Salida desde | Hora |
-|--------|------|-------|------|
+| # | Zona | Salida desde | Hora |
+|---|------|-------|------|
 | 1ª | Sabadell Sud | Hotel Arrahona ([ver en mapa](https://goo.gl/maps/Ad3j8jSUPCJPkg9WA)) | 16:30 |
 | 2ª | Sabadell Centro | Catalonia Hotel Sabadell ([ver en mapa](https://goo.gl/maps/utwAceP48s3scq7K6)) | 16:45 |
 
