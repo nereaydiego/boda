@@ -6,12 +6,16 @@ Estas son algunas recomendaciones útiles para nuestro gran día:
 - <a id="skip-to-content" href="#-cómo-puedo-volver-de-la-ceremonia">¿Cómo puedo volver de la ceremonia?</a>
 - <a id="skip-to-content" href="#-dónde-me-puedo-alojar">¿Dónde me puedo alojar?</a>
 
+<hr>
+
 __<i class="fas fa-exclamation-triangle"></i> ¡IMPORTANTE!__
 
 Necesitaríamos que nos indicaséis lo siguiente:
 
 1. Si vas a necesitar plaza en el autobús para hacer bien el recuento y contratar el numero de autobuses necesarios
 1. Si son alérgicos o intorlerantes a algún alimento
+
+<hr>
 
 # <i class="fas fa-map-signs"></i> ¿Cómo puedo ir a la ceremonia?
 
