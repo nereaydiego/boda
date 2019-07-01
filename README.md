@@ -13,7 +13,7 @@ __<i class="fas fa-exclamation-triangle"></i> ¡IMPORTANTE!__
 Necesitaríamos que nos indicaséis lo siguiente:
 
 1. Si vas a necesitar plaza en el autobús, y cuantas plazas vais a necesitar. Así podremos contratar el número de autobuses necesarios
-1. Si sois alérgicos o intorlerantes a algún alimento
+1. Si sois alérgicos o intolerantes a algún alimento
 
 <hr>
 
