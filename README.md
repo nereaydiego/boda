@@ -38,9 +38,9 @@ A la finalización del evento, el autobús regresará a la gente que así lo des
 
 # <i class="fas fa-bed"></i> ¿Dónde me puedo alojar?
 
-A continuación, os recomendamos un par de zonas en Sabadell para que os alojéis, que serán las zonas por las que pase el autobús que vamos a contratar para el evento. Os dejamos indicados algunos hoteles, aunque por supuesto, podéis buscar otras opciones. Recomendamos alojamiento en Sabadell (a 11km aprox del lugar de la celebración).
+Recomendamos que os alojéis en Sabadell (a 11km aprox del lugar de la celebración). A continuación, os recomendamos un par de zonas en Sabadell para que os alojéis, que serán las zonas por las que pasará el autobús que vamos a contratar para el evento. Os dejamos indicados algunos hoteles, aunque por supuesto, podéis buscar otras opciones.
 
-_(No os recomendamos alojaros en Barcelona dado que está a 40km y la boda es de tarde (termina a las 3 de la mañana), ni tampoco en el mismo Castellar del Vallès dado que es un pueblo pequeño con una reducida oferta de alojamientos)._
+_(No os recomendamos alojaros en Barcelona dado que está a 40km y la boda es de tarde (terminará a las 3 de la mañana), ni tampoco en el mismo Castellar del Vallès dado que es un pueblo pequeño con una oferta de alojamientos reducida)._
 
 | Zona | Hotel |
 |------|-------|
